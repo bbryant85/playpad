@@ -1,2 +1,4 @@
-alert('Just want to make sure this works');
-write.document('<p>is this working</p>');
+var firstName = "Budree";
+var lastName = "Bryant";
+
+console.log(firstName);
